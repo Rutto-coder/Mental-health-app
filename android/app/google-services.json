@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138653192071",
+    "project_id": "flutter-mental-health-83b71",
+    "storage_bucket": "flutter-mental-health-83b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138653192071:android:261b8c044eb32731a34d22",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mental_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138653192071-bfquron3g7flhosqn1vk23nk404e49mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_mental_health",
+            "certificate_hash": "3990435773c0b62c52ac4c2d3f0c2170b406527a"
+          }
+        },
+        {
+          "client_id": "138653192071-cep1lq9dg3canpotig4h6b2gkjq1o7rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF72rySwHl510JPnXXrTVzRkxtMvwUIpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138653192071-cep1lq9dg3canpotig4h6b2gkjq1o7rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
